@@ -1,6 +1,9 @@
 training
 ========
 
+FRC Offers a RobotBuilder:
+*http://wpilib.screenstepslive.com/s/3120/m/7882/l/80358-starting-robotbuilder*
+
 Public repository containing general access training materials and sandbox projects.
 
 Helpful git command line commands:
