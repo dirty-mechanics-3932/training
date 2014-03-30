@@ -6,12 +6,23 @@ Public repository containing general access training materials and sandbox proje
 Helpful git command line commands:
 
 Get a copy of a remote repository onto your local machine:  
-git clone https://github.com/dirty-mechanics-3932/training training
+*git clone https://github.com/dirty-mechanics-3932/training training*
 
 
 Revert local changes to last commit:  
-git checkout .
+*git checkout .*
 
 Push locally committed files to a remote repository:  
-git push https://<username>@github.com/dirty-mechanics-3932/training/ 
+*git push https://<username>@github.com/dirty-mechanics-3932/training/*
+
+Get an update from a remote repository (merge repository to local copy):  
+*git pull https://<username>@github.com/dirty-mechanics-3932/training/* 
+
+Reset changes in local copy that were not yet committed:  
+*git reset*
+
+Find out what remote repositories are associated with a local checkout:  
+*git remote -v*
+
+
 
