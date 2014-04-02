@@ -7,6 +7,10 @@ FRC Offers a RobotBuilder:
 Test Mode:  
 *http://wpilib.screenstepslive.com/s/3120/m/8564/l/87776-using-test-mode*
 
+PID:  
+http://www.virtualroadside.com/blog/index.php/2009/01/29/pid-parameter-calculation-spreadsheet/
+http://en.wikipedia.org/wiki/PID_controller
+
 Public repository containing general access training materials and sandbox projects.
 
 Helpful git command line commands:
