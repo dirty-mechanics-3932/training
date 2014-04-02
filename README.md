@@ -4,6 +4,9 @@ training
 FRC Offers a RobotBuilder:
 *http://wpilib.screenstepslive.com/s/3120/m/7882/l/80358-starting-robotbuilder*
 
+Test Mode:  
+*http://wpilib.screenstepslive.com/s/3120/m/8564/l/87776-using-test-mode*
+
 Public repository containing general access training materials and sandbox projects.
 
 Helpful git command line commands:
