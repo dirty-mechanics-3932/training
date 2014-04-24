@@ -36,6 +36,9 @@ Get an update from a remote repository (merge repository to local copy):
 Reset changes in local copy that were not yet committed:  
 *git reset*
 
+Clean up files that were added that you don't want to keep:  
+*git clean -fd*
+
 Find out what remote repositories are associated with a local checkout:  
 *git remote -v*
 
