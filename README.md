@@ -33,8 +33,11 @@ Push locally committed files to a remote repository:
 Get an update from a remote repository (merge repository to local copy):  
 *git pull https://<username>@github.com/dirty-mechanics-3932/training/* 
 
-Reset changes in local copy that were not yet committed:  
+Reset changes in local copy that were not yet staged:  
 *git reset*
+
+Reset changes in local copy that were not yet committed:  
+*git checkout -- .*
 
 Force a switch from your working copy back to the head of another branch:  
 *git pull --rebase https://adamzg@github.com/daniel-ruess/FRC-3932 robot-fire-control*
