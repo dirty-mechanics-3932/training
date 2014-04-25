@@ -36,11 +36,19 @@ Get an update from a remote repository (merge repository to local copy):
 Reset changes in local copy that were not yet committed:  
 *git reset*
 
+Force a switch from your working copy back to the head of another branch:  
+*git pull --rebase https://adamzg@github.com/daniel-ruess/FRC-3932 robot-fire-control*
+
 Clean up files that were added that you don't want to keep:  
 *git clean -fd*
 
 Find out what remote repositories are associated with a local checkout:  
 *git remote -v*
+
+Compare branch "testbot" with working copy in current directory:  
+*git difftool testbot .*
+
+
 
 
 
