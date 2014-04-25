@@ -39,6 +39,9 @@ Reset changes in local copy that were not yet staged:
 Reset changes in local copy that were not yet committed:  
 *git checkout -- .*
 
+Switch to another branch with "force" flag:
+*git checkout testbot -f*
+
 Force a switch from your working copy back to the head of another branch:  
 *git pull --rebase https://adamzg@github.com/daniel-ruess/FRC-3932 robot-fire-control*
 
