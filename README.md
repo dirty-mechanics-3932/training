@@ -14,5 +14,9 @@ Test Mode:  <br>
 PID:  <br>
 *http://www.virtualroadside.com/blog/index.php/2009/01/29/pid-parameter-calculation-spreadsheet/*<br>
 *http://en.wikipedia.org/wiki/PID_controller*<br>
+*https://www.youtube.com/watch?v=UR0hOmjaHp0*<br>
+*https://www.youtube.com/watch?v=XfAt6hNV8XM*<br>
+
+
 
 
