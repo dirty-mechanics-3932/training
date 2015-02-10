@@ -17,6 +17,8 @@ PID:  <br>
 *https://www.youtube.com/watch?v=UR0hOmjaHp0*<br>
 *https://www.youtube.com/watch?v=XfAt6hNV8XM*<br>
 
+Talon SRX: <br>
+*http://www.crosstheroadelectronics.com/Talon%20SRX%20Software%20Reference%20Manual.pdf*<br>
 
 
 
