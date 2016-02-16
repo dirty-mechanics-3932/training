@@ -1,0 +1,11 @@
+PID Tuning:
+
+1. Calculate your maximum speed (using math)
+2. Starting at a low P, keep doubling P until oscillation
+3. Cut P in around half
+4. Keep increasing I until you reach target rise time.
+
+Notes:
+Too much I causes oscillation.
+Don't touch D.
+
